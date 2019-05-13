@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Roboto:300,400,500,700,900');
+@import url('https://mmwebfonts.comquas.com/fonts/?font=zawgyi');
+@import url('https://mmwebfonts.comquas.com/fonts/?font=myanmar3');
+
+.font_myanmar{
+    font-family:Zawgyi-One,Myanmar3,Yunghkio;
+}
